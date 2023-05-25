@@ -1,5 +1,5 @@
 # K-Means2
-# K-MEANS ALGORİTMASI
+# K-MEANS KÜMELEME ALGORİTMASI
 # PROJENİN AMACI VE KULLANIMI
  K-means kümeleme algoritmasının bir örneğini içerir. 
  
